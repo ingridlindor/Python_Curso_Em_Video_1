@@ -34,3 +34,4 @@ print('O valor é um numero? ', (x.isnumeric()))
 print('O valor é um texto? ',(x.isalpha()))
 print (' O valor é decimal  ?', (x.isdecimal()))
 
+ 
