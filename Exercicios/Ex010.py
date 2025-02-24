@@ -1,0 +1,1 @@
+# Crie um programa que mostre quato de dinheiro uma pessoa tem na carteira e quantos dolares ela pode comprar
